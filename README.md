@@ -1,2 +1,2 @@
 # front
-template
+vue template
